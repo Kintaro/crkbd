@@ -20,6 +20,7 @@
 #define LAYER_Symbols 10
 #define LAYER_Num 11
 
+/ {
 behaviors {
    hm: homerow_mods {
        compatible = "zmk,behavior-hold-tap";

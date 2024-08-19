@@ -176,7 +176,7 @@ behaviors {
    &trans   &kp ESC &kp LPAR &kp LT &kp RPAR &kp EQUAL                              &trans &trans  &kp UP     &trans   &trans    &trans
    &trans   &trans &kp LPAR &kp SEMI &kp RPAR &kp MINUS                              &trans &kp LEFT  &kp DOWN     &kp RIGHT   &trans    &trans
    &trans   &trans &kp LBRC &kp GT &kp RBRC &kp BSLH                              &trans &trans  &trans     &trans   &trans    &trans
-                  &trans &trans &trans                              &trans &trans &LSHFT
+                  &trans &trans &trans                              &trans &trans &kp LSHFT
                         >;
                 };
 

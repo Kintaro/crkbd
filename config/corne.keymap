@@ -76,7 +76,7 @@ behaviors {
    &kp TAB   &kp X &kp F &kp D &kp_sl P LAYER_P &kp J                              &kp ESC &kp_sl G LAYER_G  &kp_sl O LAYER_O     &kp_sl U LAYER_U   &kp COMMA    &kp BSPC
    &kp LCTRL &hm LCTRL N &hm LALT S &hm LGUI T &kp_sl L LAYER_L &kp W   &kp Y &kp_sl H LAYER_H  &hm LGUI A     &hm LALT E   &hm LCTRL I &kp GRAVE
    &kp LSHFT &kp B &kp V &kp K &kp_sl M LAYER_M &kp Q                              &kp Z &kp_sl C LAYER_C  &kp SQT &kp FSLH &kp DOT &kp TILDE
-                  &kp TAB &kp BSPC &lt LAYER_Symbols R                              &hm LSFT SPACE &lt LAYER_Num RET &sk RALT
+                  &kp TAB &lt LAYER_Symbols R  &kp BSPC                             &lt LAYER_Num RET &hm LSFT SPACE &sk RALT
                         >;
                 };
 
@@ -186,7 +186,7 @@ behaviors {
    &trans   &trans &kp N1 &kp N2 &kp N3 &trans                              &trans &kp EXCL  &kp AT     &kp HASH   &trans    &trans
    &trans   &trans &kp N4 &kp N5 &kp N6 &trans                              &trans &kp DLLR  &kp PRCNT     &kp CARET   &trans    &trans
    &sl LAYER_Magic   &trans &kp N7 &kp N8 &kp N9 &trans                              &trans &kp AMPS  &kp STAR     &kp LPAR   &trans    &trans
-                  &trans &trans &kp N0                              &trans &trans &trans
+                  &trans &kp N0 &trans                              &trans &trans &trans
                         >;
                 };
         };

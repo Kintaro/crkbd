@@ -181,7 +181,7 @@ behaviors {
                 layer_sym {
                         display-name = "Sym";
                         bindings = <
-   &trans   &kp ESC &kp LPAR &kp LT &kp RPAR &kp EQUAL                              &trans &trans  &kp UP     &trans   &trans    &trans
+   &trans   &kp ESC &kp LBKT &kp LT &kp RBKT &kp EQUAL                              &trans &trans  &kp UP     &trans   &trans    &trans
    &trans   &trans &kp LPAR &kp SEMI &kp RPAR &kp MINUS                              &trans &kp LEFT  &kp DOWN     &kp RIGHT   &trans    &trans
    &trans   &trans &kp LBRC &kp GT &kp RBRC &kp BSLH                              &trans &kp PAGE_DOWN  &trans     &kp PAGE_UP   &trans    &trans
                   &trans &trans &trans                              &trans &trans &kp LSHFT

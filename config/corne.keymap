@@ -23,8 +23,8 @@
 #define BLM 15 // BOTTOM
 #define BLR 14 // BOTTOM
 #define BLP 13 // BOTTOM
-#define LOT 39 // O-THUMB
-#define LIT 38 // I-THUMB
+#define LOT 38 // O-THUMB
+#define LIT 37 // I-THUMB
 
 // RIGHT SIDE
 #define TRI 7 // TOP
